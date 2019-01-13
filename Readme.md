@@ -18,7 +18,7 @@ What things you need to install the software and how to install them
 -->
 ## Acknowledgments
 
-* My friends and the TA, specially my tutorial TAs, who kept the course always interesting and challenging for us all.
+* My friends and the TA, specially my tutorial TAs, who kept the course interesting and challenging for us all.
 
 
 
