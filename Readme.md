@@ -6,6 +6,12 @@ A repository of all the HW assignments that were completed by me in CSE101 - Int
 
 All of these HW require us to implement the basic concepts taught in the course. The labs become progressively tougher and the course continues with these programming assignments till the end.
 
+### Homework 1
+
+In this HW, we have to query a weather API and get the different required data into functions.
+
+Also, we have to create a test file to test the execution of these programs.
+
 <!--
 Each lab has a question and a set of queries and sub-tasks to implement and a strict rubric for the labs to be evaluated on:	
 
